@@ -11,8 +11,48 @@ const questions = [
       },
       {
         type: 'input',
-        message: 'What is your name?',
+        message: 'What is your GitHub username?',
         name: 'name',
+      },
+      {
+        type: 'input',
+        message: 'What is your GitHub username?',
+        name: 'name',
+      },
+      {
+        type: 'input',
+        message: 'What is the description of your project?',
+        name: 'description',
+      },
+      {
+        type: 'input',
+        message: 'What goes in your Table of Contents?',
+        name: 'table of contents',
+      },
+      {
+        type: 'input',
+        message: 'What are the technologies used?',
+        name: 'technologies',
+      },
+      {
+        type: 'input',
+        message: 'What are the installation instructions?',
+        name: 'installation',
+      },
+      {
+        type: 'input',
+        message: 'What is the usage information?',
+        name: 'usage',
+      },
+      {
+        type: 'input',
+        message: 'What are the contribution guidelines?',
+        name: 'contributions',
+      },
+      {
+        type: 'input',
+        message: 'What is the licensing?',
+        name: 'license',
       },
 ];
 
