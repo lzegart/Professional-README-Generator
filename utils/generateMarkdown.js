@@ -7,7 +7,7 @@ function generateMarkdown(data) {
 
   ## Table of Contents
   * [Description](#description)
-  * [Technologies Used](#technologies-used) 
+  * [Technologies & Usage](#technologies-&-usage) 
   * [Installation](#installation)
   * [License](#license)
   * [Contributing](#contributing)
@@ -17,9 +17,9 @@ function generateMarkdown(data) {
   ## Description
   ${data.description}
 
-  ## Technologies Used
+  ## Technologies & Usage
   ${data.usage}
-  ${data.technologies}
+  * ${data.technologies}
 
   ## Installation
   ${data.installation}
@@ -27,16 +27,17 @@ function generateMarkdown(data) {
   ## License
   ${data.license}
 
-  ## Contributing
+  ## Contributions
   ${data.contributing}
 
   ## Tests
   ${data.tests}
 
   ## Questions
-  ${data.username}
-  ${data.profile}
-  ${data.email}
+  For any further questions regarding this app, please contact:
+  * Email: ${data.email}
+  * GitHub Profile: ${data.profile}
+  * GitHub Username: ${data.username}
   `;
 }
 

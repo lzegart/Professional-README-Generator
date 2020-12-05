@@ -1,11 +1,11 @@
 
-  [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)  This project is licensed under the terms of the GitHub license 
+  [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  This project is licensed under the terms of the MIT license. 
 
-  # j
+  # hi
 
   ## Table of Contents
   * [Description](#description)
-  * [Technologies Used](#technologies-used) 
+  * [Technologies & Usage](#technologies-&-usage) 
   * [Installation](#installation)
   * [License](#license)
   * [Contributing](#contributing)
@@ -13,26 +13,27 @@
   * [Questions](#questions)
 
   ## Description
-  j
+  hi
 
-  ## Technologies Used
-  j
-  
+  ## Technologies & Usage
+  hi
+  * APIs ,local storage ,JavaScript ,Mongo DB 
 
   ## Installation
-  j
+  install
 
   ## License
-  [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)  This project is licensed under the terms of the GitHub license
+  [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  This project is licensed under the terms of the MIT license.
 
-  ## Contributing
-  j
+  ## Contributions
+  none
 
   ## Tests
-  j
+  none
 
   ## Questions
-  j
-  j
-  j
+  For any further questions regarding this app, please contact:
+  * Email: lz
+  * GitHub Profile: lz
+  * GitHub Username: lz
   
