@@ -11,23 +11,8 @@ const questions = [
       },
       {
         type: 'input',
-        message: 'What is your GitHub username?',
-        name: 'name',
-      },
-      {
-        type: 'input',
-        message: 'What is your GitHub username?',
-        name: 'name',
-      },
-      {
-        type: 'input',
         message: 'What is the description of your project?',
         name: 'description',
-      },
-      {
-        type: 'input',
-        message: 'What goes in your Table of Contents?',
-        name: 'table of contents',
       },
       {
         type: 'input',
@@ -47,12 +32,33 @@ const questions = [
       {
         type: 'input',
         message: 'What are the contribution guidelines?',
-        name: 'contributions',
+        name: 'contributing',
       },
       {
         type: 'input',
+        message: 'What is the test instructions?',
+        name: 'tests',
+      },
+      {
+        type: 'list',
         message: 'What is the licensing?',
         name: 'license',
+        choices: ['none', 'GitHub License', 'MIT License']
+      },
+      {
+        type: 'input',
+        message: 'What is your GitHub username?',
+        name: 'username',
+      },
+      {
+        type: 'input',
+        message: 'What is the link to your GitHub profile?',
+        name: 'profile',
+      },
+      {
+        type: 'input',
+        message: 'What is your email?',
+        name: 'email',
       },
 ];
 
