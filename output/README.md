@@ -1,39 +1,38 @@
 
-  [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  This project is licensed under the terms of the MIT license. 
+  [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)  This project is licensed under the terms of the GitHub license 
 
-  # ReadMe Generator
+  # j
 
   ## Table of Contents
-    * [Description](#description)
-      * [Technologies Used](#technologies-used) 
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Questions](#questions)
+  * [Description](#description)
+  * [Technologies Used](#technologies-used) 
+  * [Installation](#installation)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
   ## Description
-  auto generates a readMe file
+  j
 
   ## Technologies Used
-  to use, run `node index.js`
-  node.js
+  j
+  
 
   ## Installation
-  to run, install nodes with `npm install`
+  j
 
   ## License
-  [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  This project is licensed under the terms of the MIT license.
+  [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)  This project is licensed under the terms of the GitHub license
 
   ## Contributing
-  declare them
+  j
 
   ## Tests
-  run it
+  j
 
   ## Questions
-  lz
-  lz
-  lz
+  j
+  j
+  j
   

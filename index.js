@@ -11,12 +11,12 @@ const questions = [
       },
       {
         type: 'input',
-        message: 'What is the description of your project?',
+        message: 'What is the description of your project? (What, why, how, and motivation',
         name: 'description',
       },
       {
         type: 'input',
-        message: 'What is the usage information?',
+        message: 'What is the usage information? (Provide instructions and examples for use. Include screenshots as needed.)',
         name: 'usage',
       },
       {
@@ -27,17 +27,17 @@ const questions = [
       },
       {
         type: 'input',
-        message: 'What are the installation instructions?',
+        message: 'What are the installation instructions? (What are the steps required to install your project?)',
         name: 'installation',
       },
       {
         type: 'input',
-        message: 'What are the contribution guidelines?',
+        message: 'What are the contributions? (List your collaborators, if any, with links to their GitHub profiles.',
         name: 'contributing',
       },
       {
         type: 'input',
-        message: 'What is the test instructions?',
+        message: 'Are there any tests for your application? (If so, provide instructions on how to use them.)',
         name: 'tests',
       },
       {
