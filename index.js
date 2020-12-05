@@ -16,18 +16,19 @@ const questions = [
       },
       {
         type: 'input',
+        message: 'What is the usage information?',
+        name: 'usage',
+      },
+      {
+        type: 'checkbox',
         message: 'What are the technologies used?',
         name: 'technologies',
+        choices: ['APIs', 'html', 'css', 'node.js', 'local storage', 'JavaScript', 'Mongo DB']
       },
       {
         type: 'input',
         message: 'What are the installation instructions?',
         name: 'installation',
-      },
-      {
-        type: 'input',
-        message: 'What is the usage information?',
-        name: 'usage',
       },
       {
         type: 'input',

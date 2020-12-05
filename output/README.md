@@ -1,5 +1,7 @@
 
-  # Titlezzz
+  [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  This project is licensed under the terms of the MIT license. 
+
+  # ReadMe Generator
 
   ## Table of Contents
     * [Description](#description)
@@ -12,28 +14,26 @@
     * [Questions](#questions)
 
   ## Description
-  my description is here
+  auto generates a readMe file
 
-    ### Technologies Used
-    i used x, y and z
+  ## Technologies Used
+  to use, run `node index.js`
+  node.js
 
   ## Installation
-  run nmp install to obtain node modules and then use inquirer
-
-  ## Usage
-  use me to generate a Read Me
+  to run, install nodes with `npm install`
 
   ## License
   [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  This project is licensed under the terms of the MIT license.
 
   ## Contributing
-  contribute if you like
+  declare them
 
   ## Tests
-  test away
+  run it
 
   ## Questions
-  jk
-  lk
-  hk
+  lz
+  lz
+  lz
   
