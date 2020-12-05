@@ -1,28 +1,39 @@
-# HELLO!
+
+  # Titlezzz
+
+  ## Table of Contents
+    * [Description](#description)
+      * [Technologies Used](#technologies-used) 
+    * [Installation](#installation)
+    * [Usage](#usage)
+    * [License](#license)
+    * [Contributing](#contributing)
+    * [Tests](#tests)
+    * [Questions](#questions)
 
   ## Description
-  this is my description 
+  my description is here
 
-  ### Technologies Used
-  i used several technologies: blah, blah, blah
+    ### Technologies Used
+    i used x, y and z
 
   ## Installation
-  run node index . js
+  run nmp install to obtain node modules and then use inquirer
 
   ## Usage
-  use it
+  use me to generate a Read Me
 
   ## License
-  [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)  This project is licensed under the terms of the GitHub license
+  [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  This project is licensed under the terms of the MIT license.
 
   ## Contributing
-  contibute if you like
+  contribute if you like
 
   ## Tests
-  test it...
+  test away
 
   ## Questions
-  lz
-  kz
-  rz
+  jk
+  lk
+  hk
   
