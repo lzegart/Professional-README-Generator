@@ -36,7 +36,7 @@ function generateMarkdown(data) {
   ## Questions
   For any further questions regarding this app, please contact:
   * Email: ${data.email}
-  * GitHub Profile: ${data.profile}
+  * GitHub Profile: [${data.profile}]
   * GitHub Username: ${data.username}
   `;
 }

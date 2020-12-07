@@ -1,7 +1,7 @@
 
-  [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  This project is licensed under the terms of the MIT license. 
+  No License 
 
-  # hi
+  # ReadMe Generator
 
   ## Table of Contents
   * [Description](#description)
@@ -13,27 +13,27 @@
   * [Questions](#questions)
 
   ## Description
-  hi
+  This project generates a ReadMe file with all the headings and contents expected in a professional ReadMe.The Table of Contents links to each heading on click. Contact links are also included.  
 
   ## Technologies & Usage
-  hi
-  * APIs ,local storage ,JavaScript ,Mongo DB 
+  The application will be invoked by using the following command: `node index.js`.
+  *  node.js, JavaScript
 
   ## Installation
-  install
+  The user must install node modules by running `npm install` in the integrated terminal.
 
   ## License
-  [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  This project is licensed under the terms of the MIT license.
+  No License.
 
   ## Contributions
-  none
+  No collaborators.
 
   ## Tests
-  none
+  No tests yet.
 
   ## Questions
   For any further questions regarding this app, please contact:
-  * Email: lz
-  * GitHub Profile: lz
-  * GitHub Username: lz
+  * Email: laraezegart@gmail.com
+  * GitHub Profile: [https://github.com/lzegart]
+  * GitHub Username: lzegart
   
