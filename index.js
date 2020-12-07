@@ -23,7 +23,7 @@ const questions = [
         type: 'checkbox',
         message: 'What are the technologies used?',
         name: 'technologies',
-        choices: [' APIs', ' html', ' css', ' node.js', ' local storage', ' JavaScript', ' Mongo DB']
+        choices: [' APIs', ' html', ' css', ' node.js', ' local storage', ' JavaScript',]
       },
       {
         type: 'input',
