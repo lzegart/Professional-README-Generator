@@ -1,7 +1,7 @@
 
-  No License 
+  [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)  This project is licensed under the terms of the GitHub license 
 
-  # ReadMe Generator
+  # Title
 
   ## Table of Contents
   * [Description](#description)
@@ -13,23 +13,23 @@
   * [Questions](#questions)
 
   ## Description
-  This project generates a ReadMe file with all the headings and contents expected in a professional ReadMe.The Table of Contents links to each heading on click. Contact links are also included.  
+  This is my description.
 
   ## Technologies & Usage
-  The application will be invoked by using the following command: `node index.js`.
+  This is the usage info.
   *  node.js, JavaScript
 
   ## Installation
-  The user must install node modules by running `npm install` in the integrated terminal.
+  These are the installation instructions.
 
   ## License
-  No License.
+  [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)  This project is licensed under the terms of the GitHub license
 
   ## Contributions
-  No collaborators.
+  None yet.
 
   ## Tests
-  No tests yet.
+  None yet.
 
   ## Questions
   For any further questions regarding this app, please contact:
